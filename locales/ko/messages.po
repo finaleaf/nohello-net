@@ -13,25 +13,25 @@ msgid "header.introduction"
 msgstr "누군가 전화를 걸어와 "안녕하세요!"만 하고 아무 말이 없다고 상상해 봅시다... 🤦‍♀️"
 
 msgid "example.character.neutral.name"
-msgstr "Tim"
+msgstr "철수"
 
 msgid "example.character.neutral.avatar-description"
-msgstr "Tim's Slack avatar"
+msgstr "철수의 Slack 아바타"
 
 msgid "example.character.bad.name"
-msgstr "Keith"
+msgstr "영희"
 
 msgid "example.character.bad.avatar-description"
-msgstr "Keith's Slack avatar"
+msgstr "영희의 Slack 아바타"
 
 msgid "example.character.good.name"
-msgstr "Dawn"
+msgstr "민규"
 
 msgid "example.character.good.avatar-description"
-msgstr "Dawn's Slack avatar"
+msgstr "민규의 Slack 아바타"
 
 msgid "example.bad.title"
-msgstr "❌ Don't do this"
+msgstr "❌ 금지"
 
 # the placeholder is the year, i.e. "2022"
 msgid "example.bad.body"
@@ -55,7 +55,7 @@ msgid "example.bad.message1.timestamp"
 msgstr "2:15 PM"
 
 msgid "example.bad.message1.body"
-msgstr "hi"
+msgstr "안녕"
 
 msgid "example.bad.reply1.timestamp"
 msgstr "2:19 PM"
@@ -77,7 +77,7 @@ msgid "example.bad.reply2.body"
 msgstr "oh - 3:30 mate"
 
 msgid "example.good.title"
-msgstr "✅ Instead try this"
+msgstr "✅ 대신 이렇게 해봐요"
 
 msgid "example.good.body"
 msgstr ""
